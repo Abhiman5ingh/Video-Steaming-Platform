@@ -1,4 +1,4 @@
-# ChaiBackend ☕
+# Backend ☕
 
 A backend API built with Node.js, Express.js, MongoDB, JWT Authentication, Multer, and Cloudinary. This project provides user authentication, profile management, avatar uploads, subscriptions, and watch history features.
 
